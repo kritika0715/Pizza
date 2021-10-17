@@ -1,0 +1,41 @@
+body{
+margin:0px;
+}
+header{
+padding:10px;
+background-color:#ffdf00;
+text-align:center;
+color:#000000;
+}
+#nav{
+background-color:#f6be00;
+padding:5px;
+}
+#nav li{
+list-style:none;
+display:inline-block;
+padding:10px;
+}
+nav a{
+color:#000000;
+}
+#nav ul li a:hover{
+color:#FFFFFF;
+}
+.za{
+display:flex;
+justify-content:center;
+background-color:#ffef00;
+margin:5px;
+height:543px;
+align-items:center;
+}
+footer{
+height:45px;
+background-color:#ffd801;
+text-align:center;
+padding-top:10px;
+}
+img{
+height:60%;
+}
