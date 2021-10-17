@@ -1,0 +1,83 @@
+body{
+margin:0px;
+}
+header{
+padding:10px;
+background-color:#ffdf00;
+text-align:center;
+color:#000000;
+}
+#nav{
+background-color:#f6be00;
+padding:5px;
+}
+#nav li{
+list-style:none;
+display:inline-block;
+padding:10px;
+}
+nav a{
+color:#000000;
+}
+#nav ul li a:hover{
+color:#FFFFFF;
+}
+footer{
+height:45px;
+background-color:#ffd801;
+text-align:center;
+padding-top:10px;
+}
+.as{
+display:flex;
+flex-direction:column;
+flex-wrap:wrap;
+justify-content:center;
+align-items:baseline;
+align-content:space-evenly;
+gap:20px;
+background-color:#ffef00;
+height:543px;
+}
+.sa{
+order:4;
+flex-grow:1;
+border-radius:100%;
+behavior:url(PIE.htc);
+}
+.sat1{
+width:200px;
+height:200px;
+background:yellow;
+border:3px solid black;
+overflow:hidden;
+background-size:cover;
+background-image:url("pe.png");
+}
+.sat2{
+width:200px;
+height:200px;
+background:yellow;
+border:3px solid black;
+overflow:hidden;
+background-size:cover;
+background-image:url("che1.cms");
+}
+.sat3{
+width:200px;
+height:200px;
+background:yellow;
+border:3px solid black;
+overflow:hidden;
+background-size:cover;
+background-image:url("ma.jpg");
+}
+.sat4{
+width:200px;
+height:200px;
+background:yellow;
+border:3px solid black;
+overflow:hidden;
+background-size:cover;
+background-image:url("mu.jpg");
+}
